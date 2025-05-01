@@ -16,7 +16,10 @@ Chat-bot/
 -  └── README.md
 
 
+## How it's look 
 
+
+![Chatbot Interface](/intreface.JPEG)
 ## 🚀 How to Run
 
 ### 1. Install Dependencies
