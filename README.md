@@ -19,7 +19,7 @@ Chat-bot/
 ## How it's look 
 
 
-![Chatbot Interface](/intreface.JPEG)
+![Chatbot Interface](/intreface.JPG)
 ## 🚀 How to Run
 
 ### 1. Install Dependencies
