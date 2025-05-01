@@ -1,6 +1,17 @@
-# 🧠 Instruction-Tuned Chatbot with LoRA & T5
+# AI Chatbot with FLAN-T5 and LoRA
 
-A simple instruction-following chatbot built with `Flan-T5`, LoRA fine-tuning, and a conversational interface using Streamlit or Gradio.
+This project is an interactive chatbot built using the FLAN-T5 language model and LoRA fine-tuning.
+
+## 🖼️ Demo UI
+
+![Chatbot Interface](/intreface.JPG)
+
+## 🚀 Features
+
+- Trained on conversational datasets
+- Interactive chat interface (like ChatGPT)
+- Deployed with Streamlit or Gradio
+- Lightweight fine-tuning using PEFT (LoRA)
 
 ## 📁 Project Structure
 
@@ -16,10 +27,7 @@ Chat-bot/
 -  └── README.md
 
 
-## How it's look 
 
-
-![Chatbot Interface](/intreface.JPG)
 ## 🚀 How to Run
 
 ### 1. Install Dependencies
@@ -28,9 +36,13 @@ Chat-bot/
 pip install -r requirements.txt
 
 ```
-### 2. run the app 
+### 2. train the model 
+
+### 3. used the weights and run  the app 
 ```bash
 python app.py
+
+
 
 ## Auther
 Allam Abdelmawgoud 
